@@ -233,7 +233,7 @@ body {
 }
 
 .hidden {
-  visibility: hidden;
+  display: none !important;
 }
 
 .fader-div {
